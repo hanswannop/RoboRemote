@@ -9,4 +9,4 @@ $ go run *.go
 
 Then go to host:8080\robo on the phone and host:8080\remote on the remote
 
-Video demo and Java source for RCX coming soon.
+Video demo coming soon.
