@@ -9,4 +9,5 @@ $ go run *.go
 
 Then go to host:8080\robo on the phone and host:8080\remote on the remote
 
-Video demo coming soon.
+Video Demo
+https://vimeo.com/113198514
